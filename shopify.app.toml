@@ -3,7 +3,7 @@
 client_id = "2346717a087093e17bd2246294f629bb"
 name = "youtube-proxy"
 handle = "youtube-proxy"
-application_url = "https://lang-notebook-actually-accounts.trycloudflare.com"
+application_url = "https://import-magic-engaged-divx.trycloudflare.com"
 embedded = true
 
 [build]
@@ -16,9 +16,9 @@ scopes = "read_products,write_products"
 
 [auth]
 redirect_urls = [
-  "https://lang-notebook-actually-accounts.trycloudflare.com/auth/callback",
-  "https://lang-notebook-actually-accounts.trycloudflare.com/auth/shopify/callback",
-  "https://lang-notebook-actually-accounts.trycloudflare.com/api/auth/callback"
+  "https://import-magic-engaged-divx.trycloudflare.com/auth/callback",
+  "https://import-magic-engaged-divx.trycloudflare.com/auth/shopify/callback",
+  "https://import-magic-engaged-divx.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
